@@ -4,7 +4,7 @@ import React from "react";
 function EyesOnMe() {
   return (
     <button
-      onFocus={() => console.log("Good!wqw")}
+      onFocus={() => console.log("Good!")}
       onBlur={() => console.log("Hey! Eyes on me!")}
     >
       Eyes on me
